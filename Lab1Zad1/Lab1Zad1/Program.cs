@@ -1,39 +1,25 @@
 ﻿using System;
 
-namespace IGRA12
+namespace zaglavnbukv
 {
     class Program
     {
-        static void Main(string[] args)
+        static void FindNonEnglish(String s)
         {
-            Random d = new Random();
-            int answer;
-            Console.Write("playing the game");
-            Console.WriteLine("I made a number from 1 to 10, 100 attempts ");
-            int number = d.Next(1, 10);
-            int i;
-            for(i=0; i<100; i++)
+            foreach (char c in s)
             {
-                Console.WriteLine("choose a number");
-                answer = Convert.ToInt32(Console.ReadLine());
-                if(answer != number)
+                if (char.IsUpper(c) && (c > 90))
                 {
-                    Console.WriteLine("No!!! XA XA XA XA");
-                }
-                if(answer == number)
-                {
-                    Console.WriteLine("Well done, you guessed it, {0} popitok! number={1}!", i, number);
-                    break;
+                    Console.WriteLine(c);
                 }
             }
-            Console.ReadKey();
-
-
-
         }
-        
-    } 
-   
-    
-
+        static void Main(string[] args)
+        {
+            String s;
+            Console.WriteLine("Enter the line:");
+            s = Console.ReadLine();
+            FindNonEnglish(s);
+        }
+    }
 }

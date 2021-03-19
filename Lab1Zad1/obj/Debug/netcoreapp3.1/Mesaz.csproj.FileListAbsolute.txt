@@ -1,0 +1,13 @@
+C:\Users\37529\source\repos\Mesaz\Mesaz\bin\Debug\netcoreapp3.1\Mesaz.exe
+C:\Users\37529\source\repos\Mesaz\Mesaz\bin\Debug\netcoreapp3.1\Mesaz.deps.json
+C:\Users\37529\source\repos\Mesaz\Mesaz\bin\Debug\netcoreapp3.1\Mesaz.runtimeconfig.json
+C:\Users\37529\source\repos\Mesaz\Mesaz\bin\Debug\netcoreapp3.1\Mesaz.runtimeconfig.dev.json
+C:\Users\37529\source\repos\Mesaz\Mesaz\bin\Debug\netcoreapp3.1\Mesaz.dll
+C:\Users\37529\source\repos\Mesaz\Mesaz\bin\Debug\netcoreapp3.1\Mesaz.pdb
+C:\Users\37529\source\repos\Mesaz\Mesaz\obj\Debug\netcoreapp3.1\Mesaz.csprojAssemblyReference.cache
+C:\Users\37529\source\repos\Mesaz\Mesaz\obj\Debug\netcoreapp3.1\Mesaz.AssemblyInfoInputs.cache
+C:\Users\37529\source\repos\Mesaz\Mesaz\obj\Debug\netcoreapp3.1\Mesaz.AssemblyInfo.cs
+C:\Users\37529\source\repos\Mesaz\Mesaz\obj\Debug\netcoreapp3.1\Mesaz.csproj.CoreCompileInputs.cache
+C:\Users\37529\source\repos\Mesaz\Mesaz\obj\Debug\netcoreapp3.1\Mesaz.dll
+C:\Users\37529\source\repos\Mesaz\Mesaz\obj\Debug\netcoreapp3.1\Mesaz.pdb
+C:\Users\37529\source\repos\Mesaz\Mesaz\obj\Debug\netcoreapp3.1\Mesaz.genruntimeconfig.cache

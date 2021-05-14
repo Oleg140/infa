@@ -1,0 +1,13 @@
+C:\Users\37529\source\repos\Lab4zad2\Lab4zad2\bin\Debug\netcoreapp3.1\Lab4zad2.exe
+C:\Users\37529\source\repos\Lab4zad2\Lab4zad2\bin\Debug\netcoreapp3.1\Lab4zad2.deps.json
+C:\Users\37529\source\repos\Lab4zad2\Lab4zad2\bin\Debug\netcoreapp3.1\Lab4zad2.runtimeconfig.json
+C:\Users\37529\source\repos\Lab4zad2\Lab4zad2\bin\Debug\netcoreapp3.1\Lab4zad2.runtimeconfig.dev.json
+C:\Users\37529\source\repos\Lab4zad2\Lab4zad2\bin\Debug\netcoreapp3.1\Lab4zad2.dll
+C:\Users\37529\source\repos\Lab4zad2\Lab4zad2\bin\Debug\netcoreapp3.1\Lab4zad2.pdb
+C:\Users\37529\source\repos\Lab4zad2\Lab4zad2\obj\Debug\netcoreapp3.1\Lab4zad2.csprojAssemblyReference.cache
+C:\Users\37529\source\repos\Lab4zad2\Lab4zad2\obj\Debug\netcoreapp3.1\Lab4zad2.AssemblyInfoInputs.cache
+C:\Users\37529\source\repos\Lab4zad2\Lab4zad2\obj\Debug\netcoreapp3.1\Lab4zad2.AssemblyInfo.cs
+C:\Users\37529\source\repos\Lab4zad2\Lab4zad2\obj\Debug\netcoreapp3.1\Lab4zad2.csproj.CoreCompileInputs.cache
+C:\Users\37529\source\repos\Lab4zad2\Lab4zad2\obj\Debug\netcoreapp3.1\Lab4zad2.dll
+C:\Users\37529\source\repos\Lab4zad2\Lab4zad2\obj\Debug\netcoreapp3.1\Lab4zad2.pdb
+C:\Users\37529\source\repos\Lab4zad2\Lab4zad2\obj\Debug\netcoreapp3.1\Lab4zad2.genruntimeconfig.cache
